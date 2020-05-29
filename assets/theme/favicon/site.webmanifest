@@ -3,12 +3,12 @@
     "short_name": "MJAJC",
     "icons": [
         {
-            "src": "https://github.com/noncognitivist/mjajc/blob/master/favicon/android-chrome-192x192.png?raw=true",
+            "src": "https://github.com/noncognitivist/mjajc/blob/master/assets/theme/favicon/android-chrome-192x192.png?raw=true",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://github.com/noncognitivist/mjajc/blob/master/favicon/android-chrome-512x512.png?raw=true",
+            "src": "https://github.com/noncognitivist/mjajc/blob/master/assets/theme/favicon/android-chrome-512x512.png?raw=true",
             "sizes": "512x512",
             "type": "image/png"
         }
