@@ -5,7 +5,7 @@
         {
             "src": "https://raw.githubusercontent.com/noncognitivist/mjajc/master/assets/theme/favicon/android-chrome-192x192.png",
             "sizes": "192x192",
-            "type": "https://raw.githubusercontent.com/noncognitivist/mjajc/master/assets/theme/faviconimage/png"
+            "type": "image/png"
         },
         {
             "src": "https://raw.githubusercontent.com/noncognitivist/mjajc/master/assets/theme/favicon/android-chrome-384x384.png",
